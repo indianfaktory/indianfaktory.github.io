@@ -40,7 +40,7 @@
             var deadline = new Date(Date.parse(new Date()) + endDate * 24 * 60 * 60 * 1000 + endHours * 60 * 60 * 1000); 
           }
           // debugger;
-          var deadline = new Date("July 1, 2021 00:00:00")
+          var deadline = new Date("August 1, 2021 00:00:00")
           
           
           initializeClock(deadline);
